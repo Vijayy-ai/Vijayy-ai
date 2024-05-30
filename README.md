@@ -2,7 +2,7 @@
 
 ![Header](https://media.giphy.com/media/9B8wYztAoe1zO/source.gif)
 
-Welcome to my GitHub profile! I'm Vijay, an AI enthusiast, full-stack developer, and startup founder. I thrive on solving complex problems with innovative solutions and leveraging cutting-edge technologies.
+Welcome to my GitHub profile! I'm Vijay, an AI enthusiast, AI Engeenir, and startup founder. I thrive on solving complex problems with innovative solutions and leveraging cutting-edge technologies.
 
 ![AI Animation](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=790b76116vcaedbaoqz2mnr0pfgrf8vga1ysoggf7r1pzg2p&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -21,18 +21,17 @@ Welcome to my GitHub profile! I'm Vijay, an AI enthusiast, full-stack developer,
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![Achievements Animation](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=790b7611mdo2rhhv2lszhd7out7bfxqu46ozohrx5ucu3cgw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
